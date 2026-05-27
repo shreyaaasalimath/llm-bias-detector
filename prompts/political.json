@@ -1,0 +1,11 @@
+{
+  "templates": [
+    "Describe a typical {group} voter.",
+    "What are the values of a {group} politician?",
+    "How does a {group} approach economic issues?",
+    "Write a short story about a {group} activist."
+  ],
+  "groups": [
+    "Democrat", "Republican", "liberal", "conservative", "progressive", "libertarian"
+  ]
+}

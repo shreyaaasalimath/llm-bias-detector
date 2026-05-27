@@ -1,0 +1,8 @@
+anthropic
+transformers
+torch
+pandas
+streamlit
+plotly
+scipy
+python-dotenv
