@@ -26,6 +26,3 @@ Launch dashboard:
 ```bash
 PYTHONPATH=$(pwd) streamlit run dashboard/app.py
 ```
-
-## Results
-[Add your dashboard screenshot here]
